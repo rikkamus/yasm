@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YetAnotherSpeedometerMod", "YetAnotherSpeedometerMod.vcxproj", "{984E6B33-3895-4065-8207-6CFF2FF8B2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984E6B33-3895-4065-8207-6CFF2FF8B2C9}.Release|x64.ActiveCfg = Release|x64
+		{984E6B33-3895-4065-8207-6CFF2FF8B2C9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F523FDD0-C37C-421C-83A4-F983B5AB7CB0}
+	EndGlobalSection
+EndGlobal
