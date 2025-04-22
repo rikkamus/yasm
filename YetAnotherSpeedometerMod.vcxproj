@@ -16,6 +16,7 @@
     <ClCompile Include="src\utils.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="resource.h" />
     <ClInclude Include="sdk\inc\enums.h" />
     <ClInclude Include="sdk\inc\main.h" />
     <ClInclude Include="sdk\inc\nativeCaller.h" />
@@ -27,6 +28,9 @@
     <ClInclude Include="src\strings.h" />
     <ClInclude Include="src\text.h" />
     <ClInclude Include="src\utils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="YetAnotherSpeedometerMod.rc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
