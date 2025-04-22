@@ -7,7 +7,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\config.cpp" />
     <ClCompile Include="src\dllmain.cpp" />
+    <ClCompile Include="src\length.cpp" />
+    <ClCompile Include="src\speed.cpp" />
+    <ClCompile Include="src\strings.cpp" />
+    <ClCompile Include="src\text.cpp" />
+    <ClCompile Include="src\utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sdk\inc\enums.h" />
@@ -15,6 +21,12 @@
     <ClInclude Include="sdk\inc\nativeCaller.h" />
     <ClInclude Include="sdk\inc\natives.h" />
     <ClInclude Include="sdk\inc\types.h" />
+    <ClInclude Include="src\config.h" />
+    <ClInclude Include="src\length.h" />
+    <ClInclude Include="src\speed.h" />
+    <ClInclude Include="src\strings.h" />
+    <ClInclude Include="src\text.h" />
+    <ClInclude Include="src\utils.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
